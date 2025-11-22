@@ -74,6 +74,18 @@
   <img src="https://img.shields.io/badge/DagsHub-FF6F00?style=for-the-badge&logo=dagster&logoColor=white" />
 </p>
 
+### 🤖 Generative AI & LLMs
+<p align="left">
+  <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-333333?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-161C2D?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
+</p>
+
 ### 🔧 Other Tools & Systems
 <p align="left">
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
